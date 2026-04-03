@@ -1,4 +1,4 @@
-# Olá, eu sou João Vítor 👋
+# Olá, eu sou João Vitor 👋
 
 Estudante de **Ciência da Computação na Universidade Federal de Sergipe (UFS)** — 3º período, construindo a base um conceito de cada vez.
 
